@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\RollEx\RollEx\bin\Debug\netcoreapp3.1\RollEx.exe
+C:\Users\admin\source\repos\RollEx\RollEx\bin\Debug\netcoreapp3.1\RollEx.deps.json
+C:\Users\admin\source\repos\RollEx\RollEx\bin\Debug\netcoreapp3.1\RollEx.runtimeconfig.json
+C:\Users\admin\source\repos\RollEx\RollEx\bin\Debug\netcoreapp3.1\RollEx.runtimeconfig.dev.json
+C:\Users\admin\source\repos\RollEx\RollEx\bin\Debug\netcoreapp3.1\RollEx.dll
+C:\Users\admin\source\repos\RollEx\RollEx\bin\Debug\netcoreapp3.1\RollEx.pdb
+C:\Users\admin\source\repos\RollEx\RollEx\obj\Debug\netcoreapp3.1\RollEx.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\RollEx\RollEx\obj\Debug\netcoreapp3.1\RollEx.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\RollEx\RollEx\obj\Debug\netcoreapp3.1\RollEx.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\RollEx\RollEx\obj\Debug\netcoreapp3.1\RollEx.AssemblyInfo.cs
+C:\Users\admin\source\repos\RollEx\RollEx\obj\Debug\netcoreapp3.1\RollEx.dll
+C:\Users\admin\source\repos\RollEx\RollEx\obj\Debug\netcoreapp3.1\RollEx.pdb
+C:\Users\admin\source\repos\RollEx\RollEx\obj\Debug\netcoreapp3.1\RollEx.genruntimeconfig.cache
